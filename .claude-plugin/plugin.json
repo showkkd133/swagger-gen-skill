@@ -1,0 +1,23 @@
+{
+  "name": "swagger-gen",
+  "version": "1.0.0",
+  "description": "Auto-generate Swagger/OpenAPI 3.0 docs from source code. Supports Express, FastAPI, Gin, Spring Boot, Next.js and more.",
+  "author": "showkkd133",
+  "license": "MIT",
+  "homepage": "https://github.com/showkkd133/swagger-gen-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/showkkd133/swagger-gen-skill.git"
+  },
+  "keywords": [
+    "swagger",
+    "openapi",
+    "api-docs",
+    "documentation",
+    "code-analysis"
+  ],
+  "categories": [
+    "developer-tools",
+    "documentation"
+  ]
+}

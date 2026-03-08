@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "swagger-gen",
+      "version": "1.0.0",
+      "path": ".",
+      "description": "Auto-generate Swagger/OpenAPI 3.0 docs from source code"
+    }
+  ]
+}

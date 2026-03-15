@@ -9,6 +9,14 @@
     "type": "git",
     "url": "https://github.com/showkkd133/swagger-gen-skill.git"
   },
+  "triggers": [
+    "生成 swagger",
+    "生成 api 文档",
+    "generate swagger",
+    "generate openapi",
+    "写 api docs",
+    "api documentation"
+  ],
   "keywords": [
     "swagger",
     "openapi",
